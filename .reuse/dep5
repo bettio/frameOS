@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: frameOS
+Upstream-Contact: Davide Bettio <davide@uninstall.it>
+
+Files: priv/font-h1.ufont priv/font-h2.ufont
+Copyright: The Noto Project Authors (https://github.com/notofonts/notofonts.github.io)
+License: OFL-1.1
+Comment: Generated from /usr/share/fonts/truetype/noto/NotoSans-Regular.ttf
+ via wip-resources/fontconvert.py.

@@ -1,0 +1,7 @@
+%{
+  "avm_scene": {:git, "https://github.com/AtomVM/avm_scene.git", "aba9249f189d29d4564d81ba50bbe9fe28bc1d44", []},
+  "elixir_make": {:hex, :elixir_make, "0.9.0", "6484b3cd8c0cee58f09f05ecaf1a140a8c97670671a6a0e7ab4dc326c3109726", [:mix], [], "hexpm", "db23d4fd8b757462ad02f8aa73431a426fe6671c80b200d9710caf3d1dd0ffdb"},
+  "exatomvm": {:git, "https://github.com/AtomVM/exatomvm.git", "0f9351417673d347d442c3283cca1bfeb47458f6", []},
+  "photon_ui": {:git, "https://github.com/bettio/photon_ui.git", "869ca3c3eb5c368acff2162e4fee8a0369050d55", []},
+  "uf2tool": {:hex, :uf2tool, "1.1.0", "7091931234ca5a256b66ea691983867d51229798622d083f85c1ad779798a734", [:rebar3], [], "hexpm", "1a7e5ca7ef3d19c7a0b0acf3db804b3188e0980884acffa13fd57d733507b73d"},
+}
